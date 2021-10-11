@@ -28,3 +28,6 @@ const twoSum = (nums, target) => {
 ```
 
 NOTE: use hash map for ideal solution
+
+### Ruby
+
