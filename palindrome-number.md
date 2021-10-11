@@ -1,4 +1,4 @@
-# Palindrom number
+# Palindrome number
 
 ### difficulty: easy
 
