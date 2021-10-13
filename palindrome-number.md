@@ -13,11 +13,7 @@ An integer is a palindrome when it reads the same backward as forward. For examp
 
 ```
 const isPalindrome = function(x) {
-    const reversed = x.toString().split('').reverse().join('');
-    if (reversed === x.toString()) {
-        return true;
-    }
-    return false;
+    return x.toString() === x.toString().split('').reverse().join('');
 };
 ```
 
