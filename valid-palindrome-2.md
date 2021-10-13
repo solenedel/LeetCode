@@ -2,7 +2,7 @@
 
 ### difficulty: easy
 
-Given a string s, return true if the s can be palindrome after deleting at most one character from it.
+Given a string s, return true if the s can be palindrome after deleting at most one character from it. s consists of lowercase English letters.
 
 
 
@@ -12,5 +12,7 @@ Given a string s, return true if the s can be palindrome after deleting at most 
 
 Solution A:
 ```
-
+const isPalindrome = (s) => {
+ 
+};
 ```
