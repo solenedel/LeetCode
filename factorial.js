@@ -14,6 +14,19 @@ const factorial = (num) => {
  };
 
 
+const factorial = (num) => {
+
+  if (num <= 1) return 1;
+
+  let result = num;
+
+  if (num >= 1) {
+    result *= factorial(num - 1);
+  }
+
+  return result; 
+};
+
 
 //////// TEST ///////
 
