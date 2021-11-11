@@ -1,4 +1,4 @@
 # 👾 LeetCode problems
 
-completed LeetCode problems in JavaScript and Ruby.
+completed LeetCode problems in JavaScript.
 
